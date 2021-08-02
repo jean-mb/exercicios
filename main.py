@@ -7,8 +7,8 @@ def timer(segundosAntes, frase, segundosDepois):
     time.sleep(segundosDepois)
 
 # ============================= OBSERVAÇÕES ==============================
-# ---- Todos os programas propostos estão nesse mesmo arquivo.. 
-# ---- Os scripts estão organizados nas seções abaixo, seram executados de
+# ---- Todos os programas propostos estão nesse mesmo arquivo.
+# ---- Os scripts estão organizados nas seções abaixo, e serão executados de
 #      acordo com a vontade do usuário
 
 # ============================= MENU DE SCRIPTS ==============================
