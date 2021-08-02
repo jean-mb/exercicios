@@ -1,2 +1,2 @@
-# Exercicios de Python 
+# Exercícios de Python 
 - Propostos no programa Edutech
