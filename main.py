@@ -2,7 +2,6 @@ from datetime import datetime # Exercício 2
 import time                   # Funcão timer() usada em todos os exercícios
 import random                 # Exercício 17
 
-
 # ---------------------- Funções úteis ----------------------
 def timer(segundosAntes, frase, segundosDepois):
     time.sleep(segundosAntes)
