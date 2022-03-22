@@ -410,8 +410,7 @@ def menu(chave):  # Determina qual exercício(função) será executado
     }
     return menu[chave](a)
 
-loop = True
-while loop:
+while True:
     resposta = int(input("\nDeseja ir para o menu?\n - Digite 1 para 'SIM'\n - Digite 2 para 'NÃO'\n --> "))
 
     if resposta == 1:
